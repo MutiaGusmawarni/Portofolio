@@ -1,1 +1,1 @@
-print(2**int(input("input n: "))-1 if int(input("input n: "))> 0 else "n harus lebih dari 0")
+n = int(input("input n: ")); print((2**n)-1 if n > 0 else "n harus lebih dari 0")
