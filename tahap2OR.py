@@ -1,0 +1,1 @@
+print(2**int(input("input n: "))-1 if int(input("input n: "))> 0 else "n harus lebih dari 0")
